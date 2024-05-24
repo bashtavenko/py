@@ -1,6 +1,7 @@
 """Tests for graphs."""
 
 import unittest
+import requests
 
 import graph as m
 
