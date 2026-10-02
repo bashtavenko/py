@@ -1,7 +1,7 @@
-# CV, ML exploration and snippets in Python 
+# py
+Python related code
 
+https://google.github.io/styleguide/pyguide.html
+https://pylint.org/#install
 
-Works on Linux machine with CUDA with usual Google libraries such as absl, glog
-and follows this [style](https://google.github.io/styleguide/pyguide.html).
-
-
+[Buildifier](https://github.com/bazelbuild/buildtools/tree/master/buildifier#readme)
