@@ -93,7 +93,7 @@ class GraphNode:
     def __repr__(self):
         return (
             f"data:{self.data} color:{self.color}"
-            f"parent:{self.parent.data if self.parent else "None"}"
+            f"parent:{self.parent.data if self.parent else 'None'}"
             f" level:{self.level}"
         )
 
